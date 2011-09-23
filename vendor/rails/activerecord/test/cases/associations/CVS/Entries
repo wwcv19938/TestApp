@@ -1,0 +1,16 @@
+/belongs_to_associations_test.rb/1.1/Sat Apr 10 05:30:39 2010//
+/callbacks_test.rb/1.1/Sat Apr 10 05:30:39 2010//
+/cascaded_eager_loading_test.rb/1.1/Sat Apr 10 05:30:39 2010//
+/eager_load_includes_full_sti_class_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/eager_load_nested_include_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/eager_singularization_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/eager_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/extension_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/has_and_belongs_to_many_associations_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/has_many_associations_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/has_many_through_associations_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/has_one_associations_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/has_one_through_associations_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/inner_join_association_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+/join_model_test.rb/1.1/Sat Apr 10 05:30:40 2010//
+D

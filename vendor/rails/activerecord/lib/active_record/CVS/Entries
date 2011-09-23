@@ -1,0 +1,34 @@
+/aggregations.rb/1.1/Sat Apr 10 05:30:39 2010//
+/association_preload.rb/1.1/Sat Apr 10 05:30:39 2010//
+/associations.rb/1.1/Sat Apr 10 05:30:39 2010//
+/attribute_methods.rb/1.1/Sat Apr 10 05:30:39 2010//
+/autosave_association.rb/1.1/Sat Apr 10 05:30:39 2010//
+/base.rb/1.1/Sat Apr 10 05:30:39 2010//
+/batches.rb/1.1/Sat Apr 10 05:30:39 2010//
+/calculations.rb/1.1/Sat Apr 10 05:30:39 2010//
+/callbacks.rb/1.1/Sat Apr 10 05:30:39 2010//
+/dirty.rb/1.1/Sat Apr 10 05:30:39 2010//
+/dynamic_finder_match.rb/1.1/Sat Apr 10 05:30:39 2010//
+/dynamic_scope_match.rb/1.1/Sat Apr 10 05:30:39 2010//
+/fixtures.rb/1.1/Sat Apr 10 05:30:39 2010//
+/i18n_interpolation_deprecation.rb/1.1/Sat Apr 10 05:30:39 2010//
+/migration.rb/1.1/Sat Apr 10 05:30:39 2010//
+/named_scope.rb/1.1/Sat Apr 10 05:30:39 2010//
+/nested_attributes.rb/1.1/Sat Apr 10 05:30:39 2010//
+/observer.rb/1.1/Sat Apr 10 05:30:39 2010//
+/query_cache.rb/1.1/Sat Apr 10 05:30:39 2010//
+/reflection.rb/1.1/Sat Apr 10 05:30:39 2010//
+/schema.rb/1.1/Sat Apr 10 05:30:39 2010//
+/schema_dumper.rb/1.1/Sat Apr 10 05:30:39 2010//
+/serialization.rb/1.1/Sat Apr 10 05:30:39 2010//
+/session_store.rb/1.1/Sat Apr 10 05:30:39 2010//
+/test_case.rb/1.1/Sat Apr 10 05:30:39 2010//
+/timestamp.rb/1.1/Sat Apr 10 05:30:39 2010//
+/transactions.rb/1.1/Sat Apr 10 05:30:39 2010//
+/validations.rb/1.1/Sat Apr 10 05:30:39 2010//
+/version.rb/1.1/Sat Apr 10 05:30:39 2010//
+D/associations////
+D/connection_adapters////
+D/locale////
+D/locking////
+D/serializers////

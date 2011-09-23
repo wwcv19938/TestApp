@@ -1,0 +1,53 @@
+/array.rb/1.1/Sat Apr 10 07:28:20 2010//
+/base64.rb/1.1/Sat Apr 10 07:28:20 2010//
+/benchmark.rb/1.1/Sat Apr 10 07:28:20 2010//
+/bigdecimal.rb/1.1/Sat Apr 10 07:28:20 2010//
+/blank.rb/1.1/Sat Apr 10 07:28:20 2010//
+/cgi.rb/1.1/Sat Apr 10 07:28:20 2010//
+/class.rb/1.1/Sat Apr 10 07:28:20 2010//
+/date.rb/1.1/Sat Apr 10 07:28:20 2010//
+/date_time.rb/1.1/Sat Apr 10 07:28:20 2010//
+/duplicable.rb/1.1/Sat Apr 10 07:28:20 2010//
+/enumerable.rb/1.1/Sat Apr 10 07:28:20 2010//
+/exception.rb/1.1/Sat Apr 10 07:28:20 2010//
+/file.rb/1.1/Sat Apr 10 07:28:20 2010//
+/float.rb/1.1/Sat Apr 10 07:28:20 2010//
+/hash.rb/1.1/Sat Apr 10 07:28:20 2010//
+/integer.rb/1.1/Sat Apr 10 07:28:20 2010//
+/kernel.rb/1.1/Sat Apr 10 07:28:20 2010//
+/load_error.rb/1.1/Sat Apr 10 07:28:20 2010//
+/logger.rb/1.1/Sat Apr 10 07:28:20 2010//
+/module.rb/1.1/Sat Apr 10 07:28:20 2010//
+/name_error.rb/1.1/Sat Apr 10 07:28:20 2010//
+/numeric.rb/1.1/Sat Apr 10 07:28:20 2010//
+/object.rb/1.1/Sat Apr 10 07:28:20 2010//
+/pathname.rb/1.1/Sat Apr 10 07:28:20 2010//
+/proc.rb/1.1/Sat Apr 10 07:28:20 2010//
+/process.rb/1.1/Sat Apr 10 07:28:20 2010//
+/range.rb/1.1/Sat Apr 10 07:28:20 2010//
+/rexml.rb/1.1/Sat Apr 10 07:28:20 2010//
+/string.rb/1.1/Sat Apr 10 07:28:20 2010//
+/symbol.rb/1.1/Sat Apr 10 07:28:20 2010//
+/time.rb/1.1/Sat Apr 10 07:28:20 2010//
+/try.rb/1.1/Sat Apr 10 07:28:20 2010//
+/uri.rb/1.1/Sat Apr 10 07:28:20 2010//
+D/array////
+D/base64////
+D/bigdecimal////
+D/cgi////
+D/class////
+D/date////
+D/date_time////
+D/file////
+D/float////
+D/hash////
+D/integer////
+D/kernel////
+D/module////
+D/numeric////
+D/object////
+D/pathname////
+D/process////
+D/range////
+D/string////
+D/time////
